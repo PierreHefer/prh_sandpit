@@ -19,3 +19,5 @@ pwd heck you are in the correct folder
 git init # initialise
 git clone git@github.com:heferav/prh_sandpit.git #clones repo into folder ~/git/prh_sandpit
 ```
+
+#All done, just doing some tests at the moment so that I can ensure I know whatI am doing.
